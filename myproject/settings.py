@@ -82,7 +82,7 @@ DATABASES = {
         'NAME': 'workindia',
         'USER': 'root',
         'PASSWORD': 'workindia@24',
-        'HOST': '127.0.0.1',
+        'HOST': 'backenddevjj.pythonanywhere.com',
         'PORT': '3306'
     }
 }
